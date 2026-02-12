@@ -87,3 +87,12 @@ body {
     text-align: center;
     font-style: bold;
 }
+
+.attribution { 
+    margin-top: 25px;
+    font-weight: 900;
+    font-size: 11px; text-align: center; 
+}
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
